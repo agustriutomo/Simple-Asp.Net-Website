@@ -1,0 +1,5 @@
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Entities\bin\Debug\Simple-AspNetWebsite.Entities.dll
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Entities\bin\Debug\Simple-AspNetWebsite.Entities.pdb
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Entities\obj\Debug\Simple-AspNetWebsite.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Entities\obj\Debug\Simple-AspNetWebsite.Entities.dll
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Entities\obj\Debug\Simple-AspNetWebsite.Entities.pdb

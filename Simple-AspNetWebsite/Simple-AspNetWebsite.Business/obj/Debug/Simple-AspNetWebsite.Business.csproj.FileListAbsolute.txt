@@ -1,0 +1,7 @@
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\bin\Debug\Simple-AspNetWebsite.Business.dll
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\bin\Debug\Simple-AspNetWebsite.Business.pdb
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\bin\Debug\Simple-AspNetWebsite.Entities.dll
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\bin\Debug\Simple-AspNetWebsite.Entities.pdb
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\obj\Debug\Simple-AspNetWebsite.Business.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\obj\Debug\Simple-AspNetWebsite.Business.dll
+C:\Users\Agus\Documents\GitHub\Simple-Asp.Net-Website\Simple-AspNetWebsite\Simple-AspNetWebsite.Business\obj\Debug\Simple-AspNetWebsite.Business.pdb
